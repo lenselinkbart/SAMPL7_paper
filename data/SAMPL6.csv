@@ -1,0 +1,12 @@
+smiles,LogP_exp
+FC(F)(F)c1cccc(Nc2ncnc3ccccc23)c1,4.09
+Clc1ccc(CNc2ncnc3ccccc23)cc1,3.98
+c1ccc(CNc2ncnc3ccccc23)cc1,3.21
+Cc1ccc2[nH]c(=O)c(CC(=O)O)c(-c3ccccc3)c2c1,3.10
+COc1cccc(Nc2ncnc3ccccc23)c1,3.03
+Nc1ncnc2c1cnn2-c1ccccc1,2.10
+Clc1cccc(Nc2ncnc3ccccc23)c1,3.83
+COc1cc2ncnc(Nc3cccc(C)c3)c2cc1OC,2.92
+Nc1ccc2c(c1)ncn2-c1ccccc1,1.95
+Oc1ccc(-n2cnc3ccccc32)cc1,3.07
+O=C(Nc1ccncc1)c1c(Cl)cccc1Cl,2.62
